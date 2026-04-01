@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<Settings>
+	<ServiceName>
+		 <ServiceMySQL>MySQL80</ServiceMySQL>
+		 <ServiceApache>Apache2.4</ServiceApache>
+	</ServiceName>
+	<PathSettings>
+		<PHPpath>C:\php\php.exe</PHPpath>
+		<Apachepath>C:\Apache24\bin\httpd.exe</Apachepath>
+		<MySQLpath>C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe</MySQLpath>
+		<OpenSSLpath>C:\Apache24\bin\openssl.exe</OpenSSLpath>
+	</PathSettings>
+</Settings>
