@@ -9,6 +9,7 @@ A Windows GUI utility to manage and monitor a local web development environment 
 The **AMP Manager** provides a simple desktop interface to check the status of, start, stop, and restart Apache and MySQL services. It also provides quick access to their primary configuration files.
 
 The application is designed to be robust, with extensive error handling at startup. It validates all application paths from an external `Settings.xml` file and will prevent itself from running if the configuration is critically flawed.
+
 <img width="1238" height="651" alt="image" src="https://github.com/user-attachments/assets/d04b1062-9b31-4fa1-b588-b7a2fbee1b75" />
 
 
