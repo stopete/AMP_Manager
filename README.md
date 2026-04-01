@@ -1,11 +1,8 @@
 # ⚙️ AMP Manager (Apache Web Tool)
 
-![PowerShell](https://img.shields.io/badge/PowerShell-5.1%2B-blue.svg?style=for-the-badge&logo=powershell)
-![Apache](https://img.shields.io/badge/Apache-2.4-red.svg?style=for-the-badge&logo=apache)
-![MySQL](https://img.shields.io/badge/MySQL-8.0-blue.svg?style=for-the-badge&logo=mysql)
-![PHP](https://img.shields.io/badge/PHP-8.x-purple.svg?style=for-the-badge&logo=php)
-
 A Windows GUI utility to manage and monitor a local web development environment (Apache, MySQL, PHP).
+
+<img width="1250" height="635" alt="image" src="https://github.com/user-attachments/assets/5132f473-d545-4dfa-8df2-4514ec202949" />
 
 ---
 
