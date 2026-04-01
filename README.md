@@ -2,7 +2,8 @@
 
 A Windows GUI utility to manage and monitor a local web development environment (Apache, MySQL, PHP).
 
-<img width="1250" height="635" alt="image" src="https://github.com/user-attachments/assets/5132f473-d545-4dfa-8df2-4514ec202949" />
+<img width="1238" height="651" alt="image" src="https://github.com/user-attachments/assets/8398a070-1f31-4aae-a0f0-c8c8164382fb" />
+
 
 ---
 
